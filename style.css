@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+div >p a{
+  text-decoration: none;
+   text-transform: none; 
+   list-style: none;
+    color: white;
+}
+div >{
+    color: gray;
+}
+a:hover{
+    background-color: rgb(146, 8, 8);
+    padding: 8px;
+    border-radius: 10px;
+}
